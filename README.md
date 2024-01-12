@@ -12,7 +12,7 @@ There are two principle reasons why it is difficult to access even the *publical
     followed by the many database descriptors: CAS Number, PubChem ID, etc.,
     followed by structural information stored in various file-length formats such as MOL, SDF, PDB, or CDX / CDXML.
 2. **There are multiple public sources of molecular properties currently in common use.**
-    PubChem, ChemSpider, Wikipedia, various U.S. and other governmental agencies, and of course the primary literature, although much of that remains locked away from public use ([in theory](sci-hub.se)).
+    PubChem, ChemSpider, Wikipedia, various U.S. and other governmental agencies, and of course the primary literature, although much of that remains locked away from public use ([in theory](https://sci-hub.se)).
 
 This project is a set of tools, written primarily in Python, intended to make it as simple as possible to know everything publically recorded about a given chemical structure, given ANY of the common identifiers which map to single chemical entities. 
 
