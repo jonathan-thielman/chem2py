@@ -16,4 +16,4 @@ There are two principle reasons why it is difficult to access even the *publical
 
 This project is a set of tools, written primarily in Python, intended to make it as simple as possible to know everything publically recorded about a given chemical structure, given ANY of the common identifiers which map to single chemical entities. 
 
-##Thus, the overall goal: "All the molecular stuff in one place."
+## Thus, the overall goal: "All the molecular stuff in one place."
