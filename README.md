@@ -1,7 +1,7 @@
 # chem2py
 Find, convert, and use molecular properties and descriptors.
 
-The vision here is a set of classes that abstract the idea that molecular entities are uniquely defined by their chemical structure, and thus knowing that structure, or any descriptor that maps to a single such structure, should serve as an index to all the *publicly* available data about that structure's properties. 
+The vision here is a set of classes that abstract the idea that molecular entities are uniquely defined by their chemical structure, and thus knowing that structure, or any descriptor that maps to a single such structure, should serve as an index to *all* the publicly available data about that structure's properties. 
 
 In practice, of course, it is often quite difficult to go from, say, a CDXML file of a chemical structure to, for example, knowing it's melting point. 
 
